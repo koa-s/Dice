@@ -20,7 +20,6 @@ void draw()
       sum = sum + eachDie.dots;
     }
   }
-  System.out.println(sum);
   if (r+g+b < 400) {
     fill(255, 255, 255);
   }
